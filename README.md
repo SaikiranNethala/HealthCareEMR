@@ -180,13 +180,6 @@ is_current BOOLEAN
 - [ICD vs CPT Codes](https://www.simplepractice.com/blog/icd-codes-and-cpt-codes/)
 - [Azure Medallion Architecture](https://learn.microsoft.com/en-us/azure/architecture/example-scenario/dataplat/medallion-architecture)
 
----
-
-## 👨‍💻 Author
-
-**Sumit Sir (TrendyTech)**
-- 📍 Hyderabad
-- 🌐 [TrendyTech Website](https://trendytech.in)
 
 ---
 
