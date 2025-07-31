@@ -183,9 +183,6 @@ is_current BOOLEAN
 
 ---
 
-## 🧾 License
-
-This project is for educational purposes only. All data used is synthetically generated using Faker.
 
 ---
 
